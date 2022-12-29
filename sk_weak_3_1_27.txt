@@ -1,0 +1,736 @@
+#1-2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>text align</title>
+</head>
+<body>
+    <h1>heading</h1>
+    <a href="#"> My website</a>
+</body>
+</html>
+h1{
+    background-color: lightblue;
+    width: 500px;
+    text-align: right;
+    padding-right: 10px;
+
+}
+a{
+    display: inline-block;
+    width: 5000px;
+    border-color: lightcoral;
+    text-align: center;
+ text-align: left;
+}
+#3
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Heading</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto possimus error nemo cumque molestias a assumenda tenetur exercitationem sit animi, deleniti eos itaque magnam aut deserunt. Harum porro dicta a aliquid perspiciatis minus atque similique tenetur odio aperiam, quisquam commodi, eos ea, aspernatur ipsam magni necessitatibus totam iste nulla possimus amet voluptatibus ab cum molestiae. Voluptate tenetur aliquam, sit facilis ipsum quisquam exercitationem eos tempore laboriosam, accusamus deleniti autem repellendus id, magnam modi asperiores facere! Doloremque delectus, nesciunt ratione sequi inventore eveniet neque earum modi hic saepe, accusamus est maiores. Explicabo dolores itaque similique, corrupti quod ea iste magni beatae, pariatur quaerat non! Repellendus obcaecati quas odio excepturi cupiditate nulla eaque magni aspernatur nemo nobis, cum ut alias sapiente placeat quo et eius saepe perspiciatis enim labore amet. Tempora, temporibus neque. Officia ad aspernatur quisquam dolorum eligendi excepturi tenetur similique qui laudantium? Laboriosam vel fuga tempora neque libero expedita quibusdam facilis, corporis sequi itaque laborum ipsam sunt voluptatum iste pariatur dolor eveniet corrupti. Laborum itaque numquam corporis velit ipsam commodi, vel voluptatem nulla inventore provident architecto reprehenderit reiciendis officiis nam odit sed. Natus quas harum exercitationem maxime, ullam dolore voluptas ad saepe nam et, enim consequuntur inventore earum doloribus molestias.</p>
+</body>
+</html>
+p{
+    font-family: 'poppins',sans-serif;
+    font-weight: 300;
+
+}
+h1{
+    font-family: 'poppins',sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+#4
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Heading</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto possimus error nemo cumque molestias a assumenda tenetur exercitationem sit animi, deleniti eos itaque magnam aut deserunt. Harum porro dicta a aliquid perspiciatis minus atque similique tenetur odio aperiam, quisquam commodi, eos ea, aspernatur ipsam magni necessitatibus totam iste nulla possimus amet voluptatibus ab cum molestiae. Voluptate tenetur aliquam, sit facilis ipsum quisquam exercitationem eos tempore laboriosam, accusamus deleniti autem repellendus id, magnam modi asperiores facere! Doloremque delectus, nesciunt ratione sequi inventore eveniet neque earum modi hic saepe, accusamus est maiores. Explicabo dolores itaque similique, corrupti quod ea iste magni beatae, pariatur quaerat non! Repellendus obcaecati quas odio excepturi cupiditate nulla eaque magni aspernatur nemo nobis, cum ut alias sapiente placeat quo et eius saepe perspiciatis enim labore amet. Tempora, temporibus neque. Officia ad aspernatur quisquam dolorum eligendi excepturi tenetur similique qui laudantium? Laboriosam vel fuga tempora neque libero expedita quibusdam facilis, corporis sequi itaque laborum ipsam sunt voluptatum iste pariatur dolor eveniet corrupti. Laborum itaque numquam corporis velit ipsam commodi, vel voluptatem nulla inventore provident architecto reprehenderit reiciendis officiis nam odit sed.Natus quas harum exercitationem maxime, ullam dolore voluptas ad saepe nam et, enim consequuntur inventore earum doloribus molestias.</p>
+</body>
+</html>
+
+h1{
+    letter-spacing: 4px;
+    font-size: 46px;
+    text-decoration: underline wavy red;
+
+}
+p{
+    font-size: 20px;
+    line-height: 30px;
+    word-spacing: 8px;
+    letter-spacing: 2px;
+    
+}
+#5
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="https://youtube.com">youtube india</a>
+    <a href="https://youtube.com">youtube uk</a>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam ratione repellat alias at accusantium expedita officia, ab fugit neque commodi voluptatum sint ex reprehenderit voluptate ipsa corporis quis sit excepturi doloremque voluptates harum nihil necessitatibus nam autem. Voluptatibus nulla soluta perferendis ipsa deserunt necessitatibus ex cumque culpa suscipit! Voluptate, tenetur!</p>
+</body>
+</html>
+a:link{
+    color:orange;
+}
+a:visited{
+    color: red;
+
+}
+
+a:hover{
+    color: green;
+
+}
+a.active{
+    color: black;
+}
+
+#6
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <p>I am the first pargraph inside header and first element too</p>
+        <p>I am the second paragraph</p>
+        <p>I am the third paragraph</p>
+        <h3>I am heading and last element</h3>
+    </header>
+    <header>
+        <h1>heading</h1>
+        <p>I am the first paragraph</p>
+        <p>I am the second paragraph</p>
+        <p>I am the third paragraph</p>
+    </header>
+    <p>I am direct child of body</p>
+    <p>I am also direct child of body</p>
+    <div class="container"><p>I am first paragraph inside conatiner2</p>
+        <p>I am second paragraph inside container2</p>
+        <p>I am last paragraph inside conatiner2</p>
+        
+    </div>
+
+</body>
+</html>
+p:first-child{
+    color: red;
+}
+p:first-of-type{
+    color: red;
+}
+
+#8
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <p>I am the first pargraph inside header and first element too</p>
+        <p>I am the second paragraph</p>
+        <p>I am the third paragraph</p>
+        <h3>I am heading and last element</h3>
+    </header>
+    <header>
+        <h1>heading</h1>
+        <p>I am the first paragraph</p>
+        <p>I am the second paragraph</p>
+        <p>I am the third paragraph</p>
+    </header>
+    <p>I am direct child of body</p>
+    <p>I am also direct child of body</p>
+    <div class="container">
+	<p>I am first paragraph inside conatiner2</p>
+        <p>I am second paragraph inside container2</p>
+        <p>I am last paragraph inside conatiner2</p>
+        
+    </div>
+
+</body>
+</html>
+p:last-child{
+    color: green;
+}
+p:last-of-type{
+    color: red;
+}
+
+
+#9
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <p>I am the first pargraph inside header and first element too</p>
+        <p>I am the second paragraph</p>
+        <p>I am the third paragraph</p>
+        <h3>I am heading and last element</h3>
+    </header>
+    <header>
+        <h1>heading</h1>
+        <p>I am the first paragraph</p>
+        <p>I am the second paragraph</p>
+        <p>I am the third paragraph</p>
+    </header>
+    <p>I am direct child of body</p>
+    <p>I am also direct child of body</p>
+    <div class="container">
+        <p>I am first paragraph inside conatiner2</p>
+        <p>I am second paragraph inside container2</p>
+        <p>I am last paragraph inside conatiner2</p>
+</div>
+
+</body>
+</html>
+p:nth-child(2n){
+    color: green;
+}
+p:nth-of-type(2n){
+    color: red;
+}
+ul li:nth-of-type(2n){
+    color: red;
+    border-color: lightblue;
+}
+
+#10
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <p>I am the first pargraph inside header and first element too</p>
+        <p>I am the second paragraph</p>
+        <p>I am the third paragraph</p>
+        <h3>I am heading and last element</h3>
+    </header>
+    <header>
+        <h1>heading</h1>
+        <p>I am the first paragraph</p>
+        <p>I am the second paragraph</p>
+        <p>I am the third paragraph</p>
+    </header>
+		 <p>I am direct child of body</p>
+    <p>I am also direct child of body</p>
+    <div class="container">
+        <p>I am first paragraph inside conatiner2</p>
+        <p>I am second paragraph inside container2</p>
+        <p>I am last paragraph inside conatiner2</p>
+        
+    </div>
+
+</body>
+</html>
+p:nth-child(2n){
+    color: green;
+}
+p:nth-of-type(2n){
+    color: red;
+}
+ul li:nth-of-type(2n){
+    color: red;
+    border-color: lightblue;
+}
+
+
+#11
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>my heading</h1>
+    <div></div>
+    <p class="fancy">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, distinctio eveniet. Dolore blanditiis quas rerum perferendis sint maiores molestiae iure.</p>
+    <div></div>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam dolor corporis dolore libero, quaerat aliquid ut eius delectus cumque rem.</p>
+</body>
+</html>
+body:not(.fancy){
+    color: blue;
+    background-color: #ddd;
+
+}
+div:empty{
+    background: #222;
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+
+}
+html{
+    background: #333;
+    color: #eee;
+}
+body{
+    background: #222;
+    color: #eee;
+}
+
+#12
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My heading</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta magni id distinctio consequatur nemo aliquid porro exercitationem veritatis sunt nam.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ipsam cupiditate vel mollitia itaque aperiam ad. Fugit, praesentium. Voluptatem, soluta.</p>
+    
+</body>
+</html>
+p::first-letter{
+    font-size: 32px;
+
+}
+::selection{
+    background: black;
+    color: white;
+}
+#13
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p class="cool">this is my program</p>
+    <h1 class="main-heading">this is my heading</h1>
+    <img src="image.png" alt="A man holding shovel">
+    
+</body>
+</html>
+.cool::before{
+    display: block;
+    content: 'hello';
+    color: green;
+    border: 1px dotted black;
+    margin-bottom: 5px;
+    padding: 5px;
+
+}
+.cool::after{
+    display: block;
+    content: 'hello';
+    color: green;
+    border: 1px dotted black;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.main-heading::before{
+    content: 'hello';
+    color: red;
+}
+
+#14
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylsheet' href='style.css'
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>My Website</h1>
+        <section class="about-me">
+            <h3>Something about me</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit sequi quisquam veritatis deserunt, expedita culpa. Vitae veritatis blanditiis dolorum asperiores!</p>
+        </section>
+        <section>
+            <h2>Something about lilly</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia tenetur molestiae explicabo aliquam commodi tempore placeat voluptate hic minima rerum!</p>
+        </section>
+    </div>
+</body>
+</html>
+
+
+
+
+
+@import url('https://fonts.googleleapis.com/css2?family=Poppins:wght@300,400,500&display=');
+body{
+    font-family: "Poppins",sans-serif;
+}
+.container{
+    width: 1400px;
+    border: 2px solid red;
+    margin: 0 auto;
+}
+h1{
+    background: #cdcdcd;
+    text-align: center;
+    padding: 15px 0px;
+}
+section.about-me,section.about-lilly{
+    border: 2px solid #666;
+    padding: 10px;
+}
+
+.about-me{
+    margin-bottom: 40px;
+}
+section h3{
+    text-transform: uppercase;
+    color: #4444
+}
+
+
+#15
+
+#16
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"
+    <title>CSS IMPORTANT CONCEPT</title>
+</head>
+<body>
+    <!-- two types of css units -->
+    <!-- 1.) Absolute units  -->
+    <!-- 2.)Relative units  -->
+    <p>The quick brown fox jumps over the lazy dog </p>
+</body>
+</html>
+
+
+p{
+    /* font-size: 16px; */
+    font-size: 32px;
+    font-size: 96px;
+
+    /* 1 inch==96px */
+    font-size: 1in;
+    /* 1in ==2.54cm */
+    font-size: 2.54cm;
+    /* 1px==0.75pt */
+    /* 16px==0.75*16(12) */
+    font-size: 12pt;
+    border:12pt solid red;
+}
+
+
+#17 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"
+    <title>CSS PERCENTAGES</title>
+</head>
+<body>
+    <div>
+        <p>hello there</p>
+    </div>
+    
+</body>
+</html>
+
+
+div{
+    border: 2px solid red;
+    font-size: 20px;
+    width: 50%;
+}
+p{
+    border: 1px solid green;
+    width: 50%;
+    font-size: 100%;
+    background: lightblue;
+    margin:10px auto;
+    /* margin-left: 25%; */
+    text-align: center;
+}
+
+#18
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"
+    <title>CSS PERCENTAGES</title>
+</head>
+<body>
+    <div class="box1">
+        <p class="text-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias quaerat assumenda possimus ab esse at sit itaque ratione, sed repellendus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas odit nihil corrupti labore autem consectetur necessitatibus sequi quis assumenda veritatis?</p>
+    </div>
+    
+</body>
+</html>
+
+html{
+    font-size: 10px;
+    /* font-size: 62.5%; */
+    /* 16px --->100% */
+    /* 10--->100/16*10 */
+}
+/* :root{
+    font-size: 10px;
+} */
+.box1{
+    font-size:2rem;
+}
+.text-content{
+    font-size: 3rem;
+    border: 1rem solid red;
+    margin:0.5rem;
+    padding:4.5rem;
+}
+
+
+#19
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"
+    <title>em relative unit</title>
+</head>
+<body>
+    <h1>This is mean heading</h1>
+    <div class="box1">
+        <h1>This h1 is inside box 1</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum minima, id necessitatibus aut commodi, deleniti consectetur iusto ducimus sed iste hic quisquam eum provident cupiditate! Sunt rem unde vero incidunt!</p>
+    </div>
+    
+</body>
+</html>
+
+
+h1{
+    font-size: 2em;
+    border: 2em solid black;
+    padding:3em;
+}
+.box1{
+    font-size: 20px;
+}
+
+
+#20
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"
+    <title>em relative unit</title>
+</head>
+<body>
+    <h1>This is mean heading</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum minima, id necessitatibus aut commodi, deleniti consectetur iusto ducimus sed iste hic quisquam eum provident cupiditate! Sunt rem unde vero incidunt!</p>
+    
+</body>
+</html>
+
+html{
+    /* font-size: 10px; */
+    font-size: 62.5%;
+}
+h1{
+    font-size: 2.8rem;
+    border: 4px solid black;
+    padding:lem;
+}
+p{
+    font-size: 2rem;
+}
+
+#21-24
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+h1{
+    border: 4px solid red
+}
+
+.box{
+    border:4px solid red;
+    padding:5px;
+}
+
+h1{
+    border: 2px solid green;
+    width:70%
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: red
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.fav-musician{
+    border:10px solid green;
+}
+
+<div class="mozrat"></div>
+
+.mozrat{
+    width:45%;
+    border: 4px soild red;
+}
+
+.box{
+    clear:both;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <div class="clearfix"></div>   
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div> </div>
+</body>
+</html>
+
+.container{
+    position:relative;
+    width:800px;
+    height:500px
+    border :8px soild green;
+    margin-top:50px;
+    margin-bottom:50px   
+}
+
+.container h1{
+    border: 4px solid red;
+    background: lightyellow;
+    position: relative;
+    top:150px;
+    z-index:0;
+}
+
+.container p{
+    border: 4px solid purple;
+    background:rgb(211,211,211);
+}
+
+#27
+
+@import url('https://fonts.googleapis.com')
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header{
+    height: 10vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
